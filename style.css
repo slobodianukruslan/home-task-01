@@ -1,0 +1,27 @@
+table {
+	border-collapse: collapse;	
+	border: 2px solid black;
+	table-layout: auto;
+	width: 85%;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 25px;	
+}
+
+caption {
+	caption-side: top;
+	text-align: right;
+}
+
+td, th {
+	border: 1px solid grey;
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #FBE0F9
+}
+
+th {
+	background-color: #FDB8B8;
+	border: 1px solid black;
+}
